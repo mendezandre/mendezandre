@@ -3,7 +3,7 @@
 
 - 🔭 Estou a procurar de emprego/estágio
 
-## Tecnologias que uso e estou aprendendo:
+## Linguagens e tecnologias que uso e estou aprendendo:
 - <div style="display: inline_block"><br>
   <img align="center" alt="andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="andre-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
