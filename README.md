@@ -33,5 +33,6 @@ Me chamo André Mendes, tenho 16 anos e sou natural de Campinas, São Paulo. Con
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendezandre&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
 
