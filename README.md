@@ -26,12 +26,16 @@ Me chamo André Mendes, tenho 16 anos e sou natural de Campinas, São Paulo. Con
   <a href="https://www.linkedin.com/in/andre-mendes-9a3418397/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
+
 <div>
   <a href="https://beacons.ai/mendezandre" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendezandre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendezandre&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
+
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
