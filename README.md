@@ -2,7 +2,7 @@
 
 **`Cursando Desenvolvimento de Sistemas`**
 
-Me chamo André Mendes, tenho 16 anos e sou natural de Hortolândia, São Paulo. Concluí o ensino médio na ETEC de Hortolândia, com ênfase em Desenvolvimento de Sistemas. Atualmente, estou me aprofundando em tecnologia e programação, buscando sempre aprender e compartilhar conhecimento. Tenho interesse em projetos digitais e inovação, e gosto de explorar diferentes formas de tecnologia no dia a dia.
+Me chamo André Mendes, tenho 16 anos e sou natural de Campinas, São Paulo. Concluí o ensino médio na ETEC de Hortolândia, com ênfase em Desenvolvimento de Sistemas. Atualmente, estou me aprofundando em tecnologia e programação, buscando sempre aprender e compartilhar conhecimento. Tenho interesse em projetos digitais e inovação, e gosto de explorar diferentes formas de tecnologia no dia a dia. Estou a procura de estágio para me aperfeiçoar e aprender mais!
 
 ## Linguagens e tecnologias que uso e estou aprendendo:
 - <div style="display: inline_block"><br>
