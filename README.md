@@ -21,7 +21,12 @@ Me chamo André Mendes, tenho 16 anos e sou natural de Campinas, São Paulo. Con
   <a href="https://www.instagram.com/omendeszz__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://mail.google.com/mail/u/1/#search/andremendesmoura1309%40gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andre-mendes-9a3418397/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+</div>
+
+<div>
+  <a href="https://beacons.ai/mendezandre">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendezandre2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendezandre&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
