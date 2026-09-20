@@ -2,7 +2,7 @@
 
 **`Cursando Desenvolvimento de Sistemas`**
 
-Me chamo **André Mendes**, tenho **17 anos** e sou natural de **Campinas, São Paulo**.  
+Me chamo **André Mendes**, tenho **17 anos** e moro em **Hortolândia, São Paulo**.  
 Atualmente, curso o **Ensino Médio na ETEC de Hortolândia**, com ênfase em **Desenvolvimento de Sistemas**.  
 Estou me aprofundando em **tecnologia e programação**, buscando sempre aprender e compartilhar conhecimento.  
 Tenho interesse em **projetos digitais** e **inovação**, e gosto de explorar diferentes formas de tecnologia no dia a dia.  
